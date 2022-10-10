@@ -1,6 +1,6 @@
 <h2>Hi I'm Adejolu Temitope! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=dolahimself.dolahimself)](https://github.com/Sam-nolimit) [![GitHub followers](https://img.shields.io/github/followers/Sam-nolimit.svg?style=social&label=Follow)](https://github.com/jSam-nolimit?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jamesobed.jamesobed)](https://github.com/Sam-nolimit) [![GitHub followers](https://img.shields.io/github/followers/Sam-nolimit.svg?style=social&label=Follow)](https://github.com/jSam-nolimit?tab=followers)
 
 <p>I am a software developer with a cumulative of 2 years experience, 1 year of non-commercial experience and 1 years of commercial experience.My skills set include TypeScript, Node.JS, Express, React, JavaScript, HTML, CSS, Boostrap, TDD with Jest, REST APIs, JSON, MySQL, Postgres, MongoDB, Graphql, Git, GitHub, Docker, DockerHub, WordPress, Cpanel Hosting, Heroku.
 </p>
