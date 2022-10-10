@@ -10,7 +10,7 @@ If it will solve a problem, I want to be part of it. Solving problems excites me
 
 #### Visit my portfolio website and LinkedIn profile for more about me.
 
-<a href="https://temitopeadejolu.netlify.app/">Portfolio</a>&nbsp;<a href="[https://www.linkedin.com/in/adejolu-temitope-72671b167](https://www.linkedin.com/in/temitope-adejolu/)">LinkedIn</a>
+<a href="https://temitopeadejolu.netlify.app/">Portfolio</a>&nbsp;<a href="https://www.linkedin.com/in/temitope-adejolu/">LinkedIn</a>
 
 <br />
 
