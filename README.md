@@ -1,4 +1,4 @@
-<h2>Hi I'm Adejolu Temitope! 👋</h2>
+<h2>Hi I'm Sam no limit 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jamesobed.jamesobed)](https://github.com/Sam-nolimit) [![GitHub followers](https://img.shields.io/github/followers/Sam-nolimit.svg?style=social&label=Follow)](https://github.com/jSam-nolimit?tab=followers)
 
